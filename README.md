@@ -61,3 +61,4 @@ dotnet run
 **Live example**:
 
 * https://blazor.syncfusion.com/demos/datagrid/dialog-editing?theme=bootstrap5
+* https://blazor.syncfusion.com/demos/file-upload/default-functionalities?theme=bootstrap5
